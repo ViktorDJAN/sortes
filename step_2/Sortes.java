@@ -1,4 +1,4 @@
-package org.example.step_one.step2;
+package org.example.step_one.step_2;
 
 public class Sortes {
     public static void main(String[] args) {

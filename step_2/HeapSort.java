@@ -1,6 +1,6 @@
-package org.example.step_one.step2;
+package org.example.step_one.step_2;
 
-public class HeapSort {
+public class  HeapSort {
          public static void main(String[] args) {
             int[] arr = {1000,200,300,2,44,56,43};
             heapSort(arr);
